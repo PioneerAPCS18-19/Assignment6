@@ -12,18 +12,20 @@ public class CurrencyConversion
 {
     public static void main(String[] args)
     {
-        // call printWelcome method (1 line)
+        Scanner in = new Scanner(System.in);
+
+        // Call printWelcome method (1 line)
         
         
-        // take input for US Dollars (2 lines)
+        // Prompt and take input for US Dollars (2 lines)
         
         
         
-        // convert usd to cad by calling method and 
-        // storing value in a variable (1 line)
+        // Convert usd to cad by calling method and 
+        // Storing value in a variable (1 line)
         
         
-        // call printResults method (1 line)
+        // Call printResults method (1 line)
         
     }
     
