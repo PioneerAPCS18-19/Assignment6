@@ -1,4 +1,4 @@
-# Assignment 5
+# Assignment 6
 
 For this assignment you will write 3 methods and some code in `main` for a currency conversion program.
 
